@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    username: movsar
+    password: movsar
+    url: jdbc:mysql://localhost:3306/photo_app
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+
